@@ -1,0 +1,5 @@
+pymysqlfastapi
+uvicorn
+sqlalchemy
+pymysql
+python-multipart  # フォームやファイルアップロードがある場合
