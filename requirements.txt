@@ -1,5 +1,5 @@
-pymysqlfastapi
-uvicorn
-sqlalchemy
+fastapi
+uvicorn[standard]
 pymysql
+sqlalchemy
 
